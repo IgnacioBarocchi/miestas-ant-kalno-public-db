@@ -1,5 +1,496 @@
 [
     {
-        "si": "no"
+      "_id":"606514560bda1f3bc0b6a4df",
+      "number":1,
+      "building":"PARK",
+      "date":"1863-1920",
+      "title":"NAMAI TEN, KUR SKAUDA",
+      "caption":"$$Iširus bendrai Lietuvos bei Lenkijos valstybei, Vilnius tampa Rusijos Imperijos provincijos miestu.$$Lukiškių aikštėje, naudojamoje kaip turgavietė, Vilniaus generalgubernatoriaus Michailo „Koriko“ Muravjovo įsakymu sukilimo prieš Imperiją dalyviams bei vadams įvykdoma 21 vieša egzekucija.$$Lenkijai aneksavus Vilniaus kraštą, aikštei suteikiamas Lenkijos diktatoriaus maršalo Pilsudskio vardas bei padedamas paminklinis akmuo čia nužudytiems atminti.$$1935m. maršalo kūnas palaidojamas Krokuvoje, o širdis – Vilniaus Rasų kapinėse, šalia jo motinos palaikų.$$",
+      "svgUrl":"https://res.cloudinary.com/maciunas123/image/upload/v1621174158/BUILDING_IMAGES/SVG/LUKISKIU_AIKSTE/NAMAI_TEN_KUR_SKAUDA_btlv7r.svg",
+      "imageUrl":"https://res.cloudinary.com/maciunas123/image/upload/v1613937888/LENIN_PARK/1_1863-1864-01_ud3i1j.png",
+      "normalizedTitle":"NAMAI_TEN_KUR_SKAUDA",
+      "draggable":[]
+    },
+    {
+      "_id":"606514560bda1f3bc0b6a4e0",
+      "number":2,
+      "building":"PARK",
+      "date":"1949",
+      "title":"IDEOLOGINĖS VILNIAUS AŠYS",
+      "caption":"$$1944m., Antrojo pasaulinio karo metu, Sovietų Sąjunga okupuoja Lietuvą. Vilnius tampa Lietuvos Tarybų Socialistinės Respublikos sostine.$$Pristatomas centrinės Vilniaus dalies suplanavimo projektas, pagrindinę ideologinę miesto ašį formuojantis nuo Neries krantinės su Revoliucijos muziejumi (dabar - NDG) bei Černiachovskio (Žaliuoju) tiltu, tęsiant Tarybų (Lukiškių) aikšte bei jos gilumoje fasadu į Gedimino prospektą suprojektuotais Vyriausybės rūmais (projektas neįgyvendintas), baigiant Tauro kalnu su ant jo pastatytu Pergalės paminklu (neįgyvendinta). $$Tarybų aikštė numatoma kaip administracinis miesto centras bei pagrindinis architektūrinis ansamblis. Pasirinkimą lemia galimybė Gedimino prospektu organiškai susieti senąjį miesto centrą (Pilies gatvę) su naujuoju, bei čia jau esančių pastatų mastelis ir ideologiškai priimtina neoklasicistinė jų architektūra. („Menas ir Politika“)$$",
+      "svgUrl":"https://res.cloudinary.com/maciunas123/image/upload/v1621174158/BUILDING_IMAGES/SVG/LUKISKIU_AIKSTE/IDEOLOGIN_S_VILNIAUS_A_YS_zn2yma.svg",
+      "imageUrl":"https://res.cloudinary.com/maciunas123/image/upload/v1613937888/LENIN_PARK/2_1949-01_tvhxld.png",
+      "normalizedTitle":"IDEOLOGIN_S_VILNIAUS_A_YS",
+      "draggable":[]
+    },
+    {
+      "_id":"606514560bda1f3bc0b6a4e1",
+      "number":3,
+      "building":"PARK",
+      "date":"1952/07/20 ",
+      "title":"VORONEŽO LENINAS KRAUSTOSI Į VILNIŲ",
+      "caption":"$$Sovietų valdžios paskelbimo metinių išvakarėse Vilniuje atidengiamas Lenino klonas - nežymiai modifikuota penkiskart Stalino premijos laureato Nikolajaus Tomskio Voronežo miestui sukurtos skulptūros kopija.$$Vykdomojo komiteto nutarimu, dieną prieš skulptūros atidengimą, Tarybų aikštei suteikiamas Lenino vardas, o Gedimino gatvė pervadinama Stalino prospektu. $$5,7 metrų aukščio paminklas užima vietą aikštės centre. Šalia įrengiamas „gėlių kilimas“, sudarantis lietuviškais ornamentais apsuptą kūjo ir pjautuvo ženklą. („Menas ir Politika“)$$",
+      "svgUrl":"https://res.cloudinary.com/maciunas123/image/upload/v1621174157/BUILDING_IMAGES/SVG/LUKISKIU_AIKSTE/VORONE_O_LENINAS_KRAUSTOSI_VILNI_lt08sv.svg",
+      "imageUrl":"https://res.cloudinary.com/maciunas123/image/upload/v1613937887/LENIN_PARK/3_1952-01_kf39kw.png",
+      "normalizedTitle":"VORONE_O_LENINAS_KRAUSTOSI_VILNI_",
+      "draggable":[]
+    },
+    {
+      "_id":"606514560bda1f3bc0b6a4e2",
+      "number":4,
+      "building":"PARK",
+      "date":"1952/07/20 ",
+      "title":"LENINO HOROKRUSAI",
+      "caption":"Vilniuje sklinda kalbos, jog:a) Leninas yra moteris - Lenino palto sagos yra kitoje pusėje, nei pridera vyriškiems darbužiams.b) Leninui Vilniuje šalta - Kauno Leninas vilki tik švarką.c) Leninas mėgsta alų - ištiesta Lenino ranka rodo į KGB kalėjimą (dabar - Okupacijų ir laisvės kovų muziejus). Arba ant Tauro kalno įsikūrusią „Tauro Rago“ aludę.(„Istoriniai Vilniaus Reliktai“)$$",
+      "svgUrl":"https://res.cloudinary.com/maciunas123/image/upload/v1621174158/BUILDING_IMAGES/SVG/LUKISKIU_AIKSTE/LENINO_HOROKRUSAI_fyzwoi.svg",
+      "imageUrl":"https://res.cloudinary.com/maciunas123/image/upload/v1613937888/LENIN_PARK/4-01-01_ijr3r5.png",
+      "normalizedTitle":"LENINO_HOROKRUSAI",
+      "draggable":[]
+    },
+    {
+      "_id":"606514560bda1f3bc0b6a4e3",
+      "number":5,
+      "building":"PARK",
+      "date":"1991/08/23 ",
+      "title":"LENINAS IŠVYKSTA Į KURORTĄ",
+      "caption":"$$Penktadienio rytą savivaldybės tarybos posėdyje priimamas sprendimas nukelti pusantrų metų Nepriklausomoje Lietuvoje stovintį Leniną, nepaisant galimų neramumų dėl Šiaurės miestelyje vis dar dislokuotų Sovietų Sąjungos karinių dalinių.$$Sprendimui įtakos turi ketvirtadienį Maskvoje sužlugęs pučas – kietosios linijos komunistų bandymas perimti valdžią iš Michailo Gorbačiovo - bei Juodojo Kaspino diena – Ribentropo-Molotovo pakto minėjimas, 1939m. Lietuvą perdavęs Sovietų Sąjungos įtakos zonai.  $$Atliekant išmontavimo darbus Leninui nutraukiamos kojos. Taip pat be žinios dingsta jo nykštys. Po izoliacijos Dailės kombinato dirbtuvėse, Leninas persikrausto į Druskininkų kurorte įrengtą Grūto parką. Buvusio Lenino nykščio ertmėje kiekvienais metais lizdą susisuka paukštelis. $$(15min: „„Mes nugalėjom“: kaip Lenino keliai neatlaikė“)2004 m. skulptorius Deimantas Narkevičius sukuria „Kartą XX amžiuje“ - 8 minučių trukmės video darbą, atbuline eiga rodantį televizinę Lukiškių paminklo nukėlimo medžiagą tol, kol Leninas ir vėl užkeliamas ant savo pjedestalo. Kūrinį įsigyja Paryžiaus Centre Pompidou ir Niujorko MoMA. Identiška Lenino skulptūra ir šiandien stovi Irkutsko mieste Sibire. $$",
+      "svgUrl":"https://res.cloudinary.com/maciunas123/image/upload/v1621174143/BUILDING_IMAGES/SVG/LUKISKIU_AIKSTE/LENINAS_I_VYKSTA_KURORT_ywtbbe.svg",
+      "imageUrl":"https://res.cloudinary.com/maciunas123/image/upload/v1613937892/LENIN_PARK/5_1991-01_fyh6il.png",
+      "normalizedTitle":"LENINAS_I_VYKSTA_KURORT_",
+      "draggable":[]
+    },
+    {
+      "_id":"606514560bda1f3bc0b6a4e4",
+      "number":6,
+      "building":"PARK",
+      "date":"1995-2009 ",
+      "title":"PROCESAI",
+      "caption":"$$1995 aikštės kampe pastatoma granito plokštė su užrašu „Šioje aikštėje bus įamžintas nežinomojo partizano ir kovotojo dėl Lietuvos laisvės atminimas“.$$1999 priimamas nutarimas, skelbiantis, jog  „Lukiškių aikštė Vilniuje formuojama kaip pagrindi¬nė reprezentacinė Lietuvos valstybės aikš¬tė su laisvės kovų memorialiniais akcen¬tais“. $$2000 įstatymas „Dėl Lukiškių aikštės Vilniuje“ aikšte paveda rūpintis vyriausybei. Prezidentas Valdas Adamkus įstatymą vetuoja, argumentuodamas, jog Lukiškių aikštės klausimas turI būti sprendžiamas Vilniaus miesto savivaldybės. $$2007 savivaldybė organizuoja kūrybines dirbtuves, laukdama menininkų pasiūlymų dėl Lukiškių aikštės rekonstrukcijos ir paminklo. $$2009 architektų sąjungos susirinkimo išvada: „Atsižvelgiant į visuomenės lūkesčius, ekonominę situaciją ir miesto vystymosi tendencijas, peržiūrėti konkurso uždavinius, sąlygas ir tęsti konkursą po kurio laiko“. (15min: „Užburtas Lukiškių aikštės ratas: diskusijos dėl paminklų tęsiasi nuo pat Lenino nuvertimo“)$$",
+      "svgUrl":"https://res.cloudinary.com/maciunas123/image/upload/v1621174158/BUILDING_IMAGES/SVG/LUKISKIU_AIKSTE/PROCESAI_snrbjj.svg",
+      "imageUrl":"https://res.cloudinary.com/maciunas123/image/upload/v1613937893/LENIN_PARK/6_1995_-_2000-01_uodgm7.png",
+      "normalizedTitle":"PROCESAI",
+      "draggable":[]
+    },
+    {
+      "_id":"606514560bda1f3bc0b6a4e5",
+      "number":7,
+      "building":"PARK",
+      "date":"2012/08/31 ",
+      "title":"LENINAS KEIČIA PROFESIJĄ",
+      "caption":"$$Sostinės dienų proga, buvusios Lenino skulptūros vietoje pastatoma trumpalaikė „The Beatles“ grupės nario John Lennon skulptūra iš smėlio, su prierašu, nurodančiu į vieną iš žymiausių atlikėjo dainų „Imagine“ („Įsivaizduok“).$$Daina kviečia įsivaizduoti taikų pasaulį be valstybių, religijos, nuosavybės bei to, dėl ko žudoma arba mirštama.$$",
+      "svgUrl":"https://res.cloudinary.com/maciunas123/image/upload/v1621174143/BUILDING_IMAGES/SVG/LUKISKIU_AIKSTE/LENINAS_KEI_IA_PROFESIJ_vejpyk.svg",
+      "imageUrl":"https://res.cloudinary.com/maciunas123/image/upload/v1613937892/LENIN_PARK/8_2012_08_31-01_jgbg12.png",
+      "normalizedTitle":"LENINAS_KEI_IA_PROFESIJ_",
+      "draggable":[]
+    },
+    {
+      "_id":"606514560bda1f3bc0b6a4e6",
+      "number":8,
+      "building":"PARK",
+      "date":"2013/04 ",
+      "title":"TAUTOS DVASIOS PAIEŠKŲ TARNYBA",
+      "caption":"$$Antrą kartą skelbiamas skulptūrinės kompozicijos Lukiškių aikštei konkursas, siekiantis išrinkti „geriausią, įtaigų, lengvai identifikuojamą, visuotinai priimtą, tautos dvasią ir kovotojų už Lietuvos laisvę atminimą įprasminantį skulptūrinės kompozicijos projektą“. (Pirkimo sąlygos)$$Visuomenės nuomonė sprendimui įtakos neturi, nes, anot Kultūros ministerijos Profesionaliojo meno skyriaus vyriausios specialistės J. Krušinskaitės „Visuomenė yra nehomogeniška ir vargu ar gali tinkamai įvertinti meninę projektų idėją ir jų organišką santykį su aikšte“. (bernardinai.lt: Mikroprotestas Lukiškių aikštėje: aikštę – piliečiams, o ne paminklams!)$$Konkurso dalyviai taip pat privalo pateikti Lietuvos gyventojų genocido ir rezistencijos tyrimo centro išduotą pažymą, įrodančią, jog nėra slaptai bendradarbiavę su buvusiomis SSRS specialiosiomis tarnybomis.(Pirkimo sąlygos)$$",
+      "svgUrl":"https://res.cloudinary.com/maciunas123/image/upload/v1621174158/BUILDING_IMAGES/SVG/LUKISKIU_AIKSTE/TAUTOS_DVASIOS_PAIE_K_TARNYBA_rpasnb.svg",
+      "imageUrl":"https://res.cloudinary.com/maciunas123/image/upload/v1613937893/LENIN_PARK/9_2013_04-01_v4qcml.png",
+      "normalizedTitle":"TAUTOS_DVASIOS_PAIE_K_TARNYBA",
+      "draggable":[]
+    },
+    {
+      "_id":"606514560bda1f3bc0b6a4e7",
+      "number":9,
+      "building":"PARK",
+      "date":"2013/05/29 ",
+      "title":"VIETA JŪSŲ REKLAMAI",
+      "caption":"$$“Fazer Lietuva“ aikštę užsėja vasariniais rugiais. Akcija pavadinama įmonės gaminamos duonos „Jorė“ vardu.$$Vizualiai įvykis primena Agnes Denes meno kūrinį „Wheatfield“ („Javų Laukas“). 1982-ųjų metų vasarą Niujorke, netoli Wall Street“o ir Pasaulinio Prekybos Centro, menininkė 2 akrus 4,5 milijardų dolerių vertės žemės užsėja javais, kurie vėliau išdalinami „The International Art Show for the End of World Hunger“ („Tarptautinė paroda pasaulinio bado pabaigai“) parodos metu.Agnes Denes: „Nusprendžiau, jog turime užtektinai vyrų sėdinčių ant žirgų skulptūrų“( „I decided we had enough public sculptures of men sitting on horses“)(twistedsifter: In 1982, An Artist Harvested Two Acres of Wheat on Land Worth $4.5 Billion)$$",
+      "svgUrl":"https://res.cloudinary.com/maciunas123/image/upload/v1621174158/BUILDING_IMAGES/SVG/LUKISKIU_AIKSTE/VIETA_J_S_REKLAMAI_xqjla2.svg",
+      "imageUrl":"https://res.cloudinary.com/maciunas123/image/upload/v1613937894/LENIN_PARK/10_2013_0529-01_fdc44y.png",
+      "normalizedTitle":"VIETA_J_S_REKLAMAI",
+      "draggable":[]
+    },
+    {
+      "_id":"606514560bda1f3bc0b6a4e8",
+      "number":10,
+      "building":"PARK",
+      "date":"2013/06/16 ",
+      "title":"AIKŠTĖ PRIKLAUSO BALANDŽIAMS",
+      "caption":"$$Tęstinio mikro-protesto metu Lukiškių žolyne atsiranda miniatiūrinių transparantų:“Laisvei nereikia jokių paminklų. Laisvė yra paminklas“„Paminklas turi būti nematomas“„Aikštė priklauso piliečiams (ir balandžiams)“„Paminklas gali būti takas arba upė, o gali ir nebūti“$$Nurodydama į aplink Lukiškių aikštę jau suformuotą gedulo zoną (Genocido aukų muziejų, Aukų gatvėje esantį paminklą Sovietų okupacijos aukoms atminti bei paminklą Lietuvos tremtiniams, kentėjusiems ir žuvusiems Jakutijoje), viena iš protesto iniciatorių Jekaterina Lavrinec: „formuojant emocinį miesto reljefą miesto centre būtų gerai palikti erdvės ir gyviems miestiečiams.“$$Protesto iniciatoriai (Laimikis.lt) taip pat išreiškia susirūpinimą, jog viešųjų erdvių likimą spręsti leidžiama tik ekspertams, o ne miesto gyventojams.(bernardinai.lt: Mikroprotestas Lukiškių aikštėje: aikštę – piliečiams, o ne paminklams!)$$",
+      "svgUrl":"https://res.cloudinary.com/maciunas123/image/upload/v1621174158/BUILDING_IMAGES/SVG/LUKISKIU_AIKSTE/AIK_T_PRIKLAUSO_BALAND_IAMS_n6cfwt.svg",
+      "imageUrl":"https://res.cloudinary.com/maciunas123/image/upload/v1613937897/LENIN_PARK/11-01_boo8vg.png",
+      "normalizedTitle":"AIK_T_PRIKLAUSO_BALAND_IAMS",
+      "draggable":[
+        "https://res.cloudinary.com/maciunas123/image/upload/v1621711708/BUILDING_IMAGES/PK_DRAGGABLES/AIK%C5%A0T%C4%96%20PRIKLAUSO%20BALAND%C5%BDIAMS/pauksciai_6_cufh8m_ls42s1.svg",
+        "https://res.cloudinary.com/maciunas123/image/upload/v1621711708/BUILDING_IMAGES/PK_DRAGGABLES/AIK%C5%A0T%C4%96%20PRIKLAUSO%20BALAND%C5%BDIAMS/pauksciai_4_d1fvo1_rxkag4.svg",
+        "https://res.cloudinary.com/maciunas123/image/upload/v1621711708/BUILDING_IMAGES/PK_DRAGGABLES/AIK%C5%A0T%C4%96%20PRIKLAUSO%20BALAND%C5%BDIAMS/pauksciai_5_xgovrd_r2tqcm.svg",
+        "https://res.cloudinary.com/maciunas123/image/upload/v1621711706/BUILDING_IMAGES/PK_DRAGGABLES/AIK%C5%A0T%C4%96%20PRIKLAUSO%20BALAND%C5%BDIAMS/pauksciai_3_cbkgvl_yd1pbh.svg",
+        "https://res.cloudinary.com/maciunas123/image/upload/v1621711706/BUILDING_IMAGES/PK_DRAGGABLES/AIK%C5%A0T%C4%96%20PRIKLAUSO%20BALAND%C5%BDIAMS/pauksciai_1_nkghgz_hzxahn.svg",
+        "https://res.cloudinary.com/maciunas123/image/upload/v1621711706/BUILDING_IMAGES/PK_DRAGGABLES/AIK%C5%A0T%C4%96%20PRIKLAUSO%20BALAND%C5%BDIAMS/pauksciai_2_rpqcwn_luukvg.svg"
+      ]
+    },
+    {
+      "_id":"606514560bda1f3bc0b6a4e9",
+      "number":11,
+      "building":"PARK",
+      "date":"2013/07/15 ",
+      "title":"ŠVIESKI MAN VĖL",
+      "caption":"$$Paminklo konkurso laimėtoju tampa Vidmanto Gylikio, Vytenio Hansell ir Ramunės Švedaitės projektas „Tautos dvasia“, du kartus jau buvęs pateiktas viešiesiems konkursams:“Tautos dvasios šviesa – sielos paukštis – taip būtų galima įvardinti šio poetinio įvaizdžio idėją, įprasminančią istorinių, nacionalinių, politinių ir bendražmogiškų ieškojimų kelią. Dvasios išraiška, sielos nerimas – iš narvo išlekiantis paukštis.“$$Ištrauka iš vertinimo komisijos komentaro:“Konkurso kontekste – tai labiausiai subalansuotas pasiūlymas. Paminklo simbolika universali ir abstrakti, todėl atitiktų daugelio skirtingų vertintojų poreikius. Simbolis lakoniškas, tuo pačiu talpus tinkamomis temai prasmėmis. Memorialinei daliai skiriamas reikiamas dėmesys.“$$",
+      "svgUrl":"https://res.cloudinary.com/maciunas123/image/upload/v1621174158/BUILDING_IMAGES/SVG/LUKISKIU_AIKSTE/_VIESKI_MAN_V_L_qq3q5w.svg",
+      "imageUrl":"https://res.cloudinary.com/maciunas123/image/upload/v1613937895/LENIN_PARK/12-01_jjovya.png",
+      "normalizedTitle":"_VIESKI_MAN_V_L",
+      "draggable":[]
+    },
+    {
+      "_id":"606514560bda1f3bc0b6a4ea",
+      "number":12,
+      "building":"PARK",
+      "date":"2013/11/02 ",
+      "title":"SPIRITIZMO SEANSAS",
+      "caption":"$$Nevyriaurybinė organizacija „Mūsų Vėliavos“ 20 metrų aukštyje pakabina rekordinio - 5 metrų ilgio - istorinę Vyčio vėliavą.$$ Projektas pradėtas Vėlinių dieną, nes, anot vieno iš projektų iniciatoriaus Deivydo Rimkevičiaus, Lukiškių aikštėje sklando mūsų laisvės gynėjų vėlės.(15min: Lukiškių aikštėje – rekordinio dydžio Vyčio vėliava)$$Istorinės veliavos gerbėjų organizacija anksčiau taip pat yra dalijusi Lietuvos vėliavas, su užrašais „Lietuviai, būkime vieningi!“ taksi vairuotojams bei karaliaus Mindaugo karūnavimo dieną organizavusi bėgimą su istorinėmis vėliavomis palei buvusią Vilniaus gynybinę sieną. $$",
+      "svgUrl":"https://res.cloudinary.com/maciunas123/image/upload/v1621174158/BUILDING_IMAGES/SVG/LUKISKIU_AIKSTE/SPIRITIZMO_SEANSAS_w9qvs5.svg",
+      "imageUrl":"https://res.cloudinary.com/maciunas123/image/upload/v1613937895/LENIN_PARK/13-01_gfnauc.png",
+      "normalizedTitle":"SPIRITIZMO_SEANSAS",
+      "draggable":[
+        "https://res.cloudinary.com/maciunas123/image/upload/v1621711701/BUILDING_IMAGES/PK_DRAGGABLES/SPIRITIZMO%20SEANSAS/smeklos_3_udxplo_eeelib.svg",
+        "https://res.cloudinary.com/maciunas123/image/upload/v1621711700/BUILDING_IMAGES/PK_DRAGGABLES/SPIRITIZMO%20SEANSAS/smeklos_2_j3j9up_bakq8j.svg",
+        "https://res.cloudinary.com/maciunas123/image/upload/v1621711699/BUILDING_IMAGES/PK_DRAGGABLES/SPIRITIZMO%20SEANSAS/smeklos_1_dd5mbh_cnxmzp.svg"
+      ]
+    },
+    {
+      "_id":"606514560bda1f3bc0b6a4eb",
+      "number":13,
+      "building":"PARK",
+      "date":"2014/05/16 ",
+      "title":"TRISKART VALIO MOKESČIŲ MOKĖTOJAMS",
+      "caption":"$$Prieš Europos Parlamento rinkimus, liberalų partija inicijuota akciją laisvės nuo mokesčių dienai paminėti, aikštę nuklojančia 2mln centų, sudarančiais 20 tūkstančių litų. Suma nurodo, kiek mokesčių per metus sumoka vidutinis dirbantysis. $$Gintaras Steponavičius, pirmas Liberalų sąjūdžio kandidatas rinkimų į Europos Parlamentą sąraše:“Šia suma padengdami Lukiškių aikštę norime ne tik parodyti įspūdingą mokestinės naštos dydį, tenkantį mūsų šalies dirbantiesiems, bet ir išreikšti pagarbą jiems – pastatyti savotišką paminklą kiekvienam mokesčių mokėtojui“(15min: Laisvės nuo mokesčių dieną Lukiškių aikštę nuklojo 2 mln. centų)$$",
+      "svgUrl":"https://res.cloudinary.com/maciunas123/image/upload/v1621174158/BUILDING_IMAGES/SVG/LUKISKIU_AIKSTE/TRISKART_VALIO_MOKES_I_MOK_TOJAMS_shbzzs.svg",
+      "imageUrl":"https://res.cloudinary.com/maciunas123/image/upload/v1613937895/LENIN_PARK/14-01_htp28p.png",
+      "normalizedTitle":"TRISKART_VALIO_MOKES_I_MOK_TOJAMS",
+      "draggable":[]
+    },
+    {
+      "_id":"606514560bda1f3bc0b6a4ec",
+      "number":14,
+      "building":"PARK",
+      "date":"2015/01/13 ",
+      "title":"NEUŽMIRŠTUOLIAI",
+      "caption":"$$Akcijos „Neužmirštuolė“ metu žmonės kviečiami įsisegti gėlės ženkliuką, o Lukiškių aikštė pavirsta popierinių neužmirštuolių pieva. Iniciatyvai skirtas šūkis „Aš prisimenu, kodėl esame laisvi“.$$Pieva aikštėje kuriama Laisvės gynėjų dieną, minint žuvusiuosius dėl 1991 metų sausio 13 sovietų kariuomenės veiksmų, kai buvo bandoma karine jėga nuversti demokratiškai išrinktą šalies valdžią, 1990-ųjų kovo 11-ąją atsiskyrusią nuo SSRS. $$Sovietų kariuomenei ir specialiesiems daliniams užimant Televizijos bokštą bei Lietuvos radijo ir televizijos pastatą, žūna 14 bei sužeidžiami daugiau nei tūkstantis žmonių.(15min: Lietuvoje prasideda Laisvės gynėjų dienos minėjimo renginiai)$$",
+      "svgUrl":"https://res.cloudinary.com/maciunas123/image/upload/v1621174158/BUILDING_IMAGES/SVG/LUKISKIU_AIKSTE/NE_MIR_TUOLIAI_jyynvv.svg",
+      "imageUrl":"https://res.cloudinary.com/maciunas123/image/upload/v1613937895/LENIN_PARK/15-01_pam03a.png",
+      "normalizedTitle":"NE_MIR_TUOLIAI",
+      "draggable":[]
+    },
+    {
+      "_id":"606514560bda1f3bc0b6a4ed",
+      "number":15,
+      "building":"PARK",
+      "date":"2015/03/11 ",
+      "title":"ILGIAUSIAS STIEBAS VYČIUI",
+      "caption":"$$Vilniaus miesto mero Artūro Zuoko iniciatyva Lukiškių aikštėje pastatomas aukščiausias Lietuvoje – 25 metrų ilgio – vėliavos stiebas, ant kurio kovo 11 d. iškeliama Vyčio vėliava$$",
+      "svgUrl":"https://res.cloudinary.com/maciunas123/image/upload/v1621174158/BUILDING_IMAGES/SVG/LUKISKIU_AIKSTE/ILGIAUSIAS_STIEBAS_VY_IUI_srbiiq.svg",
+      "imageUrl":"https://res.cloudinary.com/maciunas123/image/upload/v1613937896/LENIN_PARK/16-01_ewxx7z.png",
+      "normalizedTitle":"ILGIAUSIAS_STIEBAS_VY_IUI",
+      "draggable":[
+        "https://res.cloudinary.com/maciunas123/image/upload/v1621711689/BUILDING_IMAGES/PK_DRAGGABLES/ILGIAUSIAS%20STIEBAS%20VY%C4%8CIUI/zuokas_3_bf1z8v_cziqpw.svg",
+        "https://res.cloudinary.com/maciunas123/image/upload/v1621711687/BUILDING_IMAGES/PK_DRAGGABLES/ILGIAUSIAS%20STIEBAS%20VY%C4%8CIUI/zuokai_3_ckze73_cipqxa.svg",
+        "https://res.cloudinary.com/maciunas123/image/upload/v1621711687/BUILDING_IMAGES/PK_DRAGGABLES/ILGIAUSIAS%20STIEBAS%20VY%C4%8CIUI/zuokas_2_z3lizm_ibcggb.svg",
+        "https://res.cloudinary.com/maciunas123/image/upload/v1621711687/BUILDING_IMAGES/PK_DRAGGABLES/ILGIAUSIAS%20STIEBAS%20VY%C4%8CIUI/zuokai_1_cj6enm_btzr47.svg",
+        "https://res.cloudinary.com/maciunas123/image/upload/v1621711687/BUILDING_IMAGES/PK_DRAGGABLES/ILGIAUSIAS%20STIEBAS%20VY%C4%8CIUI/zuokai_2_bzxkuv_yd7xpr.svg"
+      ]
+    },
+    {
+      "_id":"606514560bda1f3bc0b6a4ee",
+      "number":16,
+      "building":"PARK",
+      "date":"2015/06 ",
+      "title":"PRASMIŲ TALPOS",
+      "caption":"$$Visuomeninės organizacijos kreipiasi į ministrą pirmininką ir Kultūros ministrą, prašydamos Lukiškių aikštėje nestatyti praėjusiais metais konkursą laimėjusio paminklo „Tautos dvasia“. Vietoje to siūloma sudaryti naują komisiją, kuri pirmenybę teiktų aiškaus ir lengvai identifikuojamo Lietuvos laisvės kovų simbolio – Vyčio - paminklui.$$Kreipimosi tekste teigiama, kad „Tautos dvasia“ negali būti statomas dėl trijų pagrindinių priežasčių:$$1.“Neatitiko konkurso sąlygų – nėra įtaigus, lengvai identifikuojamas ir visuotinai priimtas, priešingai, pačių konkurso komisijos narių buvo pavadintas „talpiu prasmėms“.“ $$2.“Projektas jau buvo teiktas dviem ankstesniems konkursams, taigi nėra originalus darbas, sukurtas specialiai šiam konkursui.“$$3.“Konkurso nugalėtoju paminklą „Tautos dvasia“ paskelbė viceministro Dariaus Mažinto vadovaujama komisija. Primenama, jog konkursą organizavęs D. Mažintas apskritai negalėjo eiti šių pareigų ir buvo iš jų pašalintas paaiškėjus, kad suklastojo vidurinės mokyklos baigimo diplomą, taigi ir konkurso rezultatai negali būti laikomi galiojančiais.“„Tautos dvasios“ projekto atsisakoma.$$",
+      "svgUrl":"https://res.cloudinary.com/maciunas123/image/upload/v1621174158/BUILDING_IMAGES/SVG/LUKISKIU_AIKSTE/PRASMI_TALPOS_xls8io.svg",
+      "imageUrl":"https://res.cloudinary.com/maciunas123/image/upload/v1613937897/LENIN_PARK/17-01_y0cbws.png",
+      "normalizedTitle":"PRASMI_TALPOS",
+      "draggable":[]
+    },
+    {
+      "_id":"606514560bda1f3bc0b6a4ef",
+      "number":17,
+      "building":"PARK",
+      "date":"2015/10 ",
+      "title":"LENINAS - TAI OSKARAS",
+      "caption":"$$Buvusioje Lenino skulptūros vietoje, žmogaus teisių kino festivalis „Nepatogus kinas“ pastato Oskaro, laikančio tuščią transparantą, skulptūrą. $$Festivalio direktorius Gediminas Andriukaitis: „ši skulptūra skirta žmogaus teisių aktyvistams, o aktyvistais galime būti kiekvienas.“ (15min: „Lukiškių aikštėje atidengta skulptūra žodžio laisvei“)$$Festivalio metu taip pat pristatoma apie sovietinį palikimą kalbanti „Praeities naštos“ programa:Maxì Dejoie ir Virginijos Vareikytės „Aš už tave pakalbėsiu“ (2015)Daria Khlestkina „Paskutinis limuzinas“ (2013)Chad Gracia „Rusų genys“ (2014)Vladimir Loginov „Skruzdėlynas“ (2015)Askold Kurov „Leninlendas“ (2013)Annekatrin Hendel „Andersonas“ (2014)Shalva Shengeli „Valdovas“ (2014)$$",
+      "svgUrl":"https://res.cloudinary.com/maciunas123/image/upload/v1621174158/BUILDING_IMAGES/SVG/LUKISKIU_AIKSTE/LENINAS_TAI_OSKARAS_razgzn.svg",
+      "imageUrl":"https://res.cloudinary.com/maciunas123/image/upload/v1613937895/LENIN_PARK/18-01_ptjk3d.png",
+      "normalizedTitle":"LENINAS_TAI_OSKARAS",
+      "draggable":[]
+    },
+    {
+      "_id":"606514560bda1f3bc0b6a4f0",
+      "number":18,
+      "building":"PARK",
+      "date":"2016/03/11",
+      "title":"TOBULAS PILIETIS",
+      "caption":"$$Priešais buvusius KGB rūmus atidengiamas skulptoriaus Gintauto Lukošaičio sukurtas Rusijoje įkalinto aktyvisto Piotro Pavlenskio biustas, pavadinimu „Aš - tobulas pilietis“. $$Skulptūra vaizduoja Pavlesnkį užsiūta burna, nurodant į jo 2012 akciją „Siūlė“ prie Sankt Peterburgo Kazanės katedros, kur menininkas išreiškė palaikymą dėl performanso Maskvos cerkvėje teismo laukiančioms pankroko grupės „Pussy Riot“ narėms. $$Akcijos metu Pavlesnkis taip pat laikė plakatą, lygiantį jų pasirodymą su pasakojimu iš Naujojo Testamento, kurioje Jėzus iš šventyklos išvaro prekeivius. $$Nepavykus gauti leidimo skulptūrai Vilniuje, ji užkelta ant ratukų ir po pristatymo išvežta iš aikštės. Pristatatymo metu grupės „BIX“ būgnininkas Gintautas Gascevičius groja vandens kanistrais, kibiru ir grandine. Perskaitomas tobulo piliečio manifestas.  $$",
+      "svgUrl":"https://res.cloudinary.com/maciunas123/image/upload/v1621174158/BUILDING_IMAGES/SVG/LUKISKIU_AIKSTE/TOBULAS_PILIETIS_bbex3y.svg",
+      "imageUrl":"https://res.cloudinary.com/maciunas123/image/upload/v1613937896/LENIN_PARK/19-01_shz2yd.png",
+      "normalizedTitle":"TOBULAS_PILIETIS",
+      "draggable":[]
+    },
+    {
+      "_id":"606514560bda1f3bc0b6a4f1",
+      "number":19,
+      "building":"PARK",
+      "date":"2017/02/01 ",
+      "title":"NACIONALINIAI LAURAI",
+      "caption":"$$Privačia iniciatyva organizuoto Vyčio skulptūros konkurso - ketinančio paminklą savo lėšomis aikštėje pastatyti iki 2018-ųjų vasario 16 d., kai bus minimas Valstybės atkūrimo šimtmetis - laimėtoju tampa skulptoriaus Arūno Sakalausko realistinė Vyčio skulptūra, kainuosianti apie 430 tūkst. Eurų.$$Kultūros ministerija kartu su Šiuolaikinio Meno Centru rengia kūrybines dirbtuves, Lukiškių aikštės paminklui. Jų rezultatą pavesta spręsti ekspertų komandai bei internetu už laimėtoją balsuoti visuomenei. Internetinis balsavimas kritikuojamas dėl sistemos, sudarančios sąlygas sukčiavimui.$$Vyčio paramos fondo atstovas V.Kavaliauskas: „Nemanau, kad tie teisėjai, cenzūra – net nežinau, kaip juos pavadinti, galėtų cenzūruoti nacionalinės premijos laureato A.Sakalausko darbą“(15min: Lukiškių aikštėje jau stovi Vytis – ant pjedestalo, bet popierinis)$$Dailės kritikų asociacijos nariai, dailės istorikų draugijos nariai bei Lietuvos kultūros tyrimų instituto darbuotojai išplatina peticiją „Už laisvą Lukiškių aikštę!“, nukreiptą prieš „isterišką paminklizmą“$$Peticija, teigia, jog „Pirma, nevykusi idėja – kam Vytis mojuos kardu, ar ne Genocido aukų muziejui? Antra, dėl žemokos meninės kokybės žirgas, deja, atrodo apgailėtinai.“(7MD: Peticija „Už laisvą Lukiškių aikštę!“)$$",
+      "svgUrl":"https://res.cloudinary.com/maciunas123/image/upload/v1621174158/BUILDING_IMAGES/SVG/LUKISKIU_AIKSTE/NACIONALINIAI_LAURAI_fekjx3.svg",
+      "imageUrl":"https://res.cloudinary.com/maciunas123/image/upload/v1613937897/LENIN_PARK/20-01_gkyv3x.png",
+      "normalizedTitle":"NACIONALINIAI_LAURAI",
+      "draggable":[]
+    },
+    {
+      "_id":"606514560bda1f3bc0b6a4f2",
+      "number":20,
+      "building":"PARK",
+      "date":"2017/04/06 ",
+      "title":"APKABINTI LIEPAS",
+      "caption":"$$Iki lapkričio vyksiančios aikštės renovacijos projektas pakeičiamas, numatant iškirsti 45 liepas, augančias aplink aikštės perimetrą, bei 13 šimtamečių liepų (Vasario 16-osios gatvėje nuo aikštės pusės), motyvuojant, jog jos kelia pavojų pėstiesiems bei trukdo naujam dviračių takui. Projekto pakitimai nėra aptariami su visuomene. $$Želdynų planavimo visuomeninės komisijos narys bei Lietuvos arboristikos - medžių bei jų aplinkos priežiūros - centro vadovas Sigitas Algis Davenis nustato, jog numatyti kirsti medžiai yra patenkinamos būklės.$$Iki 2016 m. dalis aikštės medžių Kultūros paveldo departamento saugomi kaip kultūrinio paveldo dalis. Prasidėjus aikštės renovacijai, Vasario 16 g auganti liepų eilė išbraukiama iš dokumentų. $$Vilniečiai renkasi į protestą prieš medžių kirtimą:“Apkabinkime medžius, nes mums gera, kad jie yra.Apkabinkime medžius, nes mums gera, kad jie mus gobia.Apkabinkime medžius, nes mums gera, kad jie tyrina orą.Apkabinkime medžius, nes jie mums it tėvai.Vilnius tuo ir nuostabus, kad toks žalias!“$$Medžiai iškertami. Vasario 16 g liepų eilėje iš 19-likos 2005m. ten augusių liepų, 2017m. lieka 7-ios. Rekonstrukcijos metu joms nukertamos šaknys, bet nenutiesiami drėkinimo kanalai bei nepaliekama pakankamai dirvožemio.$$",
+      "svgUrl":"https://res.cloudinary.com/maciunas123/image/upload/v1621174158/BUILDING_IMAGES/SVG/LUKISKIU_AIKSTE/APKABINTI_LIEPAS_onprwx.svg",
+      "imageUrl":"https://res.cloudinary.com/maciunas123/image/upload/v1613937897/LENIN_PARK/21-01-01_c9fqzg.png",
+      "normalizedTitle":"APKABINTI_LIEPAS",
+      "draggable":[
+        "https://res.cloudinary.com/maciunas123/image/upload/v1621711712/BUILDING_IMAGES/PK_DRAGGABLES/APKABINTI%20LIEPAS/medziai_1_n0ol96_u21quh.svg",
+        "https://res.cloudinary.com/maciunas123/image/upload/v1621711710/BUILDING_IMAGES/PK_DRAGGABLES/APKABINTI%20LIEPAS/medziai_3_d2hrgp_lllaui.svg",
+        "https://res.cloudinary.com/maciunas123/image/upload/v1621711708/BUILDING_IMAGES/PK_DRAGGABLES/APKABINTI%20LIEPAS/balti_medziai_4_z3ha3w_fxnfnv.svg",
+        "https://res.cloudinary.com/maciunas123/image/upload/v1621711710/BUILDING_IMAGES/PK_DRAGGABLES/APKABINTI%20LIEPAS/medziai_2_sqbgzs_tyc6e3.svg",
+        "https://res.cloudinary.com/maciunas123/image/upload/v1621711708/BUILDING_IMAGES/PK_DRAGGABLES/APKABINTI%20LIEPAS/balti_medziai_2_ntgwow_mmxnjr.svg"
+      ]
+    },
+    {
+      "_id":"606514560bda1f3bc0b6a4f3",
+      "number":21,
+      "building":"PARK",
+      "date":"2017/06/13 ",
+      "title":"DVIEJŲ DIMENSIJŲ VYTIS",
+      "caption":"$$Gavus savivaldybės leidimą, dukterinio Vyčio fondo iniciatyva aikštėje pastatoma popierinė realaus dydžio Vyčio skulptūros kopija. $$",
+      "svgUrl":"https://res.cloudinary.com/maciunas123/image/upload/v1621174158/BUILDING_IMAGES/SVG/LUKISKIU_AIKSTE/DVIEJ_DIMENSIJ_VYTIS_kpppzo.svg",
+      "imageUrl":"https://res.cloudinary.com/maciunas123/image/upload/v1613937898/LENIN_PARK/22-01-01_xlmohi.png",
+      "normalizedTitle":"DVIEJ_DIMENSIJ_VYTIS",
+      "draggable":[]
+    },
+    {
+      "_id":"606514560bda1f3bc0b6a4f4",
+      "number":22,
+      "building":"PARK",
+      "date":"2017/11/27 ",
+      "title":"KALVELĖ LAIMI",
+      "caption":"$$10 dienų prieš paskelbiant dirbtuvių laimėtoją, keli šimtai Vyčio šalininkų susirenka į judėjimo „Talka“ organizuojamą protestą Lukiškių aikštėje, nukreiptą prieš Kultūros Ministerijos bei ŠMC organizuojamą paminklo konkursą.$$Protestas remiasi apklausos duomenimis, nurodžiusiais, jog 76 proc. apklaustųjų palaiko Vyčio paminklo idėją. Kultūros ministerija duomenis vertina skeptiškai - peticijoje klausiama apie vienintelį - Vyčio - projektą, apklausa vykdyta ne Vilniuje, o 19-oje Lietuvos miestų ir dar 20-yje kaimų.$$Judėjimo „Talka“ pirmininko pavaduotojas V. Sinica: „Visuomenė remia principą, kad turi būti Vyčio monumentas. Atsižvelgiant į šią apklausą demokratinėje valstybėje neturėtų vykdomoji valdžia, tai yra ministerija, organizuoti konkurso, kuriame galima rinktis ir ne tarp Vyčio monumentų“(Klaipėdos diena: Lukiškių aikštėje – mitingas dėl Vyčio paminklo)Kūrybinių dirbtuvių laimėtoju tampa skulptoriaus A. Labašausko projektas „Laisvės klava“, visuomenėje geriau žinomas Kalvelės arba Bunkerio vardais. Objektą sudaro du pagrindiniai elementai - miškas ir kalvelė.$$Memorialinė siena (miškas) yra suformuota į betoną įspaudžiant Lietuvos miškuose augančių medžių kamienus bei juose reversu išliejant laisvės kovotojų slapyvardžius. Miškas naudojamas kaip nuoroda į įvairius su šiuo gamtovaizdžiu susijusius kontekstus, nuo šventųjų pagonių giraičių iki medžių vardais prisistačiusių partizanų bei pogrindinės erdvės, kurioje vyko pasipreišinimo kovos.$$Kalva transformuoja monumentą, kaip totalitarinę vertikalę, į horizontalę, simboliškai įkūnijančią demokratijos idėją bei sudarančią sąlygas paminklo stebėtojui tapti dalyviu. Vizualiai projektu siekiama oponuoti ir priešais stovintiems KGB rūmams, kur buvo kankinami laisvės kovotojai. $$Autoriaus pristato projekto idėją:“Laisvė nėra paminklas ir deklaracija. Laisvės nenuliesi, neįkūnysi, neįkalinsi kažkieno sukurtoje butaforinėje formoje. Laisvė – tai jausmas ir sielos būsena. Laisvės kalva nėra „paprastų žmonių“ iš apačios apžvelgiamas paminklas „nepaprastam“ herojui ant pjedestalo. Tai paminklas mūsų Laisvės kovų istorijai, į kurią laisvoje šalyje galima žiūrėti iš visų pusių.“(Projekto tinklalapis)$$",
+      "svgUrl":"https://res.cloudinary.com/maciunas123/image/upload/v1621174158/BUILDING_IMAGES/SVG/LUKISKIU_AIKSTE/KALVEL_LAIMI_g7k5pn.svg",
+      "imageUrl":"https://res.cloudinary.com/maciunas123/image/upload/v1613937888/LENIN_PARK/23-01_yxxrwu.png",
+      "normalizedTitle":"KALVEL_LAIMI",
+      "draggable":[]
+    },
+    {
+      "_id":"606514560bda1f3bc0b6a4f5",
+      "number":23,
+      "building":"PARK",
+      "date":"2017/12/20 ",
+      "title":"VIENINTELĖS TIESOS",
+      "caption":"$$41 Seimo narys inicijuoja įstatymo projektą, siūlantį „aukščiausiu lygmeniu įtvirtinti aikštės valstybinę reprezentacinę funkciją bei joje įrengti memorialą su svarbiausiu simboliu – Vyčio paminklu“. $$166 Lietuvos mokslo bei meno darbuotojai išplatina viešą kreipimąsi į Lietuvos vadovus bei Vilniaus miesto savivaldybę, kuriuo išreiškiamas susirūpinimas, jog „įstatymo projektas yra galios principu paremtas veiksmas, priimtas stokojant visuomenės įsiklausymo ir ignoruojant ekspertų darbą bei išvadas“, kuris gali pavirsti „sunkiai kontroliuojama praktika, kada atskirais įstatymais būtų įtvirtinama vis daugiau nekintamų ir vienintelių tiesų“ bei tendenciją, kai „meninis sprendimas iš kūrybinio ieškojimo paverčiamas siaura techninio išpildymo užduotimi“.$$Įstatymas nepriimamas. $$",
+      "svgUrl":"https://res.cloudinary.com/maciunas123/image/upload/v1621174158/BUILDING_IMAGES/SVG/LUKISKIU_AIKSTE/VIENINTEL_S_TIESOS_d9ovhi.svg",
+      "imageUrl":"https://res.cloudinary.com/maciunas123/image/upload/v1613937888/LENIN_PARK/24-01_re1idc.png",
+      "normalizedTitle":"VIENINTEL_S_TIESOS",
+      "draggable":[]
+    },
+    {
+      "_id":"606514560bda1f3bc0b6a4f6",
+      "number":24,
+      "building":"PARK",
+      "date":"2017/12/08 ",
+      "title":"TYLINČIO NEPERRĖKSI?",
+      "caption":"$$Kūrybiškumo dirbtuves organizuojanti NVO „Tartum be ribų“, inicijuoja protestą „Tylinčio neperrėksi“:“Ateik į aikštę ir būk laisvas.Taip kaip norisi ir taip kaip moki. Gali vaikščioti takais, scrolinti facebooką, gurkšnoti kavą, mėtytis kamuoliu, žaisti gaudynes ar važinėtis rogutėmis... ar sugalvoti savo būdą būti.Tik 12:45-12:48 visi sustingsime ir keletą minučių tylėsime.Patys tapsime paminklu laisvei ir įprasminsime A. Labašausko memorialo idėją.$$Renginys skirtas paremti Lukiškių aikštės memorialo konkursą laimėjusiai „kalvelei“. Nepaisant to, kad skulptoriaus Andriaus Labašausko projektas laimėjo, kai kurie žmonės labai reiškiasi ir nori paveikti konkurso rezultatus.Kalvelės palaikytojai tyliai laukia, bet yra nepastebimi bendroje viešoje erdvėje.Tad šis renginys visiems, kurie nori kartu tylomis parodyti, kad mums svarbu laisvė, demokratija, mūsų šalies idėjos ir mūsų balsas.$$Protesto metu aikštėje vyksta ir Vyčio šalininkų anti-protestas. Plakatai:“Kas parvežė 1940 kruviną Stalino saulę – žinome… Ar žinome kas veža Putinistų?“„Trindami Lietuvos laisvės aukų atminImą, savo atsakomybės neištrinsite“„Oi, Kaip klesti „valstiečių kultūra“ kremliaus Mošės tręšiama“„Kas bijo Vyčio - Lietuvos laisvės kario?“$$",
+      "svgUrl":"https://res.cloudinary.com/maciunas123/image/upload/v1621703890/BUILDING_IMAGES/SVG/LUKISKIU_AIKSTE/TYLIN%C4%8CIO_NEPERR%C4%96KSI_xp47ps.svg",
+      "imageUrl":"https://res.cloudinary.com/maciunas123/image/upload/v1613937890/LENIN_PARK/25-01_mjk3q2.png",
+      "normalizedTitle":"TYLIN_IO_NEPERR_KSI_",
+      "draggable":[]
+    },
+    {
+      "_id":"606514560bda1f3bc0b6a4f7",
+      "number":25,
+      "building":"PARK",
+      "date":"2018/03/08 ",
+      "title":"VIETA JŪSŲ CHAOSUI",
+      "caption":"$$Lietuvos fantastikos konvento „Lituanicon XXIX“  organizatoriai Lukiškių aikštėje pastato paminklą chaoso dievui. Užrašas ant monumento skelbia, jog „2018 Viešpaties metais ši žemė pašvenčiama didžiajam Kthulhu“, amerikiečių rašytojo Howardo Phillipso Lovecrafto apsakymų personažui.$$Vienas iš renginio organizatorių Audrius Dambrauskas: „neslėpsime, Lukiškių aikštę savo akcijai pasirinkom ne atsitiktinai. Pastaruosius metus tai – tobula vieta įsikurti chaosui.“(delfi: Kova dėl Lukiškių baigta: aikštė priklauso chaoso dievui)$$",
+      "svgUrl":"https://res.cloudinary.com/maciunas123/image/upload/v1621174158/BUILDING_IMAGES/SVG/LUKISKIU_AIKSTE/VIETA_J_S_CHAOSUI_ltw26j.svg",
+      "imageUrl":"https://res.cloudinary.com/maciunas123/image/upload/v1613937890/LENIN_PARK/26-01_iif36b.png",
+      "normalizedTitle":"VIETA_J_S_CHAOSUI",
+      "draggable":[]
+    },
+    {
+      "_id":"606514560bda1f3bc0b6a4f8",
+      "number":26,
+      "building":"PARK",
+      "date":"2018/06 ",
+      "title":"NUTEISTI NEGALIMA IŠTEISINTI",
+      "caption":"$$Vyčio šalininkai kreipiasi į teismą prašydami kad sprendimas skelbiantis laimėtoją būtų pripažintas neteisėtu, o kūrybinės dirbtuvės tęsiamos. $$Lukiškių aikštėje sudedama rekordinio dydžio – 36 kvadratinių metrų - Vyčio dėlionė bei vilniečiams išdalinama mažesnių jos kopijų. Panašios dėlionės siunčiamos ir į vaikų darželius bei mokyklas. $$Renginio iniciatorius - buvęs Vilniaus miesto meras Artūras Zuokas, 2019 metų savivaldos rinkimuose pralaimėsiantis Remigijui Šimašiui.$$",
+      "svgUrl":"https://res.cloudinary.com/maciunas123/image/upload/v1621174158/BUILDING_IMAGES/SVG/LUKISKIU_AIKSTE/NUTEISTI_NEGALIMA_I_TEISINTI_xudq3e.svg",
+      "imageUrl":"https://res.cloudinary.com/maciunas123/image/upload/v1613937890/LENIN_PARK/27-01_rxcnxq.png",
+      "normalizedTitle":"NUTEISTI_NEGALIMA_I_TEISINTI",
+      "draggable":[
+        "https://res.cloudinary.com/maciunas123/image/upload/v1621711699/BUILDING_IMAGES/PK_DRAGGABLES/NUTEISTI%20NEGALIMA%20I%C5%A0TEISINTI/delione_7_rbixuo_eitqph.svg",
+        "https://res.cloudinary.com/maciunas123/image/upload/v1621711697/BUILDING_IMAGES/PK_DRAGGABLES/NUTEISTI%20NEGALIMA%20I%C5%A0TEISINTI/delione_5_mmsuw9_lyhhky.svg",
+        "https://res.cloudinary.com/maciunas123/image/upload/v1621711697/BUILDING_IMAGES/PK_DRAGGABLES/NUTEISTI%20NEGALIMA%20I%C5%A0TEISINTI/delione_8_uhzbqo_qqu2ld.svg",
+        "https://res.cloudinary.com/maciunas123/image/upload/v1621711695/BUILDING_IMAGES/PK_DRAGGABLES/NUTEISTI%20NEGALIMA%20I%C5%A0TEISINTI/delione_3_wj5wbj_vgabau.svg",
+        "https://res.cloudinary.com/maciunas123/image/upload/v1621711695/BUILDING_IMAGES/PK_DRAGGABLES/NUTEISTI%20NEGALIMA%20I%C5%A0TEISINTI/delione_2_fmeoa5_bgs1h9.svg",
+        "https://res.cloudinary.com/maciunas123/image/upload/v1621711695/BUILDING_IMAGES/PK_DRAGGABLES/NUTEISTI%20NEGALIMA%20I%C5%A0TEISINTI/delione_1_eauaso_ydtphb.svg"
+      ]
+    },
+    {
+      "_id":"606514560bda1f3bc0b6a4f9",
+      "number":27,
+      "building":"PARK",
+      "date":"2019/03/11 ",
+      "title":"LIETUVA – LIEŽUVIAMS",
+      "caption":"$$Mitingas „Vyčio grąžinimas Vilniui“, vyksta Lietuvos nepriklausomybės atkūrimo dieną organizuojamų nacionalistų eitynių metu. $$Į eitynes susirenka apie tūkstantis žmonių. Kai kurie dalyviai dėvi atributiką su svastikomis, matoma nacių Vokietijos sukarintos SS organizacijos vėliava bei skanduojamas šūkis „Lietuva – lietuviams“.$$Nacių Vokietijos bei Sovietų Sąjungos simbolikos viešas demostravimas Lietuvoje uždraustas nuo 2008m.$$Eitynėse dalyvauja bei Vyčio šalininkų mitinge kalbą sako humanitarinių mokslų daktaras, vienas iš Lietuvos liberalų sąjungos steigėjų bei kandidatas į Lietuvos Respublikos prezidentus Arvydas Juozaitis. Savanoriai minioje renka parašus už jo kandidatūrą.(15min: Tradicinėse tautininkų eitynėse skambėjo šūkis „Lietuva – lietuviams“)",
+      "svgUrl":"https://res.cloudinary.com/maciunas123/image/upload/v1621174158/BUILDING_IMAGES/SVG/LUKISKIU_AIKSTE/LIETUVA_LIE_UVIAMS_gjea6m.svg",
+      "imageUrl":"https://res.cloudinary.com/maciunas123/image/upload/v1613937891/LENIN_PARK/28-01_onougd.png",
+      "normalizedTitle":"LIETUVA_LIE_UVIAMS",
+      "draggable":[
+        "https://res.cloudinary.com/maciunas123/image/upload/v1621711695/BUILDING_IMAGES/PK_DRAGGABLES/LIETUVA%20-%20LIE%C5%BDUVIAMS/grybai_5_q1wnbr_ytlgh7.svg",
+        "https://res.cloudinary.com/maciunas123/image/upload/v1621711694/BUILDING_IMAGES/PK_DRAGGABLES/LIETUVA%20-%20LIE%C5%BDUVIAMS/grybai_6_tes9ok_vuzcrw.svg",
+        "https://res.cloudinary.com/maciunas123/image/upload/v1621711693/BUILDING_IMAGES/PK_DRAGGABLES/LIETUVA%20-%20LIE%C5%BDUVIAMS/grybai_3_vlccmx_qwbmwu.svg",
+        "https://res.cloudinary.com/maciunas123/image/upload/v1621711693/BUILDING_IMAGES/PK_DRAGGABLES/LIETUVA%20-%20LIE%C5%BDUVIAMS/grybai_4_fcpzrg_tvocys.svg"
+      ]
+    },
+    {
+      "_id":"606514560bda1f3bc0b6a4fb",
+      "number":29,
+      "building":"PARK",
+      "date":"2019/09/24 ",
+      "title":"DAUG TRIUKŠMO DĖL KALVELĖS",
+      "caption":"$$Teismui atmetus Vyčio skulptūros šalininkų prašymą neleisti Lukiškių aikštėje eksponuoti Kalvelės maketo, čia jis pastatomas dviems savaitėms. Savivaldybė projektui skiria 32 tūkst. eurų. $$Kalvelės atidengimo dieną į aikštę susirenka kelios dešimtys Vyčio šalininkų. Protesto dalyvių plakatai:Ši gelžbetonio siena - geležinės uždangos statybos pradžia…Ar kultūros ministerija tapo Kremliaus hibridinio karo placdarmu?ŠMC malūno žmogeliukų, sutrikusio intelekto ir dvasios ubagų, ciniškos provokacijos apraiška!Mes, prisiekę 1990 - 1991 m. m. apgynėme Lietuvos laisvę, kūrėme ir kuriame savo valstybę neišduodami, todėl reikalaujame iš visų lojalumo Lietuvai. $$Lietuvos laisvės kovotojų sąjungos pirmininko pavaduotojas Laimas Dieninis: Jis [A. Labašauko paminklas] gali būti antrame plane pilnai. Galima patenkinti A.Labašausko ambicijas toliau, kur yra takelis, jei autoriai aikštės sutiktų. Ir viskas tada būtų taikiai. Mes autorius pasistengtumėme įkalbėti, jei leistų pabaigti pradėtą memorialą su Vyčiu“(15min:„Laisvės kalvos“ maketo autorius: teismo sprendimas lems, ar bus monumentas)$$",
+      "svgUrl":"https://res.cloudinary.com/maciunas123/image/upload/v1621687133/BUILDING_IMAGES/SVG/LUKISKIU_AIKSTE/DAUG_TRIUK%C5%A0MO_D%C4%96L_KALVEL%C4%96S_bqcmgz.svg",
+      "imageUrl":"https://res.cloudinary.com/maciunas123/image/upload/v1613937889/LENIN_PARK/29-01_qgienw.png",
+      "normalizedTitle":"DAUG_TRIUK_MO_D_L_KALVEL_S",
+      "draggable":[]
+    },
+    {
+      "_id":"606514560bda1f3bc0b6a4fc",
+      "number":30,
+      "building":"PARK",
+      "date":"2019/09/25 ",
+      "title":"KALVELEI ADRESUOTI LAIŠKAI",
+      "caption":"$$Praėjus mažiau nei parai nuo kalvelės maketo pastatymo, į jį prikaišioma lapelių su užrašais „Vytis – Lietuvos valstybingumo simbolis“ bei  „Mes be Vyčio nenurimsim“.$$Pastarasis perfrazuoja tarpukario šūkį, Lietuvoje naudotą Lenkijai 1919m. aneksavus Vilniaus kraštą.$$",
+      "svgUrl":"https://res.cloudinary.com/maciunas123/image/upload/v1621687132/BUILDING_IMAGES/SVG/LUKISKIU_AIKSTE/KALVELEI_ADRESUOTI_LAI%C5%A0KAI_zoo3tt.svg",
+      "imageUrl":"https://res.cloudinary.com/maciunas123/image/upload/v1613937890/LENIN_PARK/30-01-01_nuwsjp.png",
+      "normalizedTitle":"KALVELEI_ADRESUOTI_LAI_KAI",
+      "draggable":[
+        "https://res.cloudinary.com/maciunas123/image/upload/v1621711692/BUILDING_IMAGES/PK_DRAGGABLES/KALVELEI%20ADRESUOTI%20LAI%C5%A0KAI/laiskai_juodi_5_eki1ya_maxku5.svg",
+        "https://res.cloudinary.com/maciunas123/image/upload/v1621711691/BUILDING_IMAGES/PK_DRAGGABLES/KALVELEI%20ADRESUOTI%20LAI%C5%A0KAI/laiskai_juodi_3_lyryim_iui3zr.svg",
+        "https://res.cloudinary.com/maciunas123/image/upload/v1621711691/BUILDING_IMAGES/PK_DRAGGABLES/KALVELEI%20ADRESUOTI%20LAI%C5%A0KAI/laiskai_juodi_2_weoenj_t7y6hb.svg",
+        "https://res.cloudinary.com/maciunas123/image/upload/v1621711691/BUILDING_IMAGES/PK_DRAGGABLES/KALVELEI%20ADRESUOTI%20LAI%C5%A0KAI/laiskai_5_v1c9hl_y0wqkp.svg",
+        "https://res.cloudinary.com/maciunas123/image/upload/v1621711689/BUILDING_IMAGES/PK_DRAGGABLES/KALVELEI%20ADRESUOTI%20LAI%C5%A0KAI/laiskai_2_daf9ml_whfjgu.svg",
+        "https://res.cloudinary.com/maciunas123/image/upload/v1621711689/BUILDING_IMAGES/PK_DRAGGABLES/KALVELEI%20ADRESUOTI%20LAI%C5%A0KAI/laiskai_1_b9xais_i1qeod.svg"
+      ]
+    },
+    {
+      "_id":"606514560bda1f3bc0b6a4fd",
+      "number":31,
+      "building":"PARK",
+      "date":"2019/09/30 ",
+      "title":"INCIDENTAS NUMERIS VIENAS: RAUDONI DAŽAI",
+      "caption":"$$Vilniaus Juventos gimnazijos lietuvių kalbos mokytoja Astra Genovaitė Astrauskė dienos metu kalvelės maketą apipila raudonu guašu ir yra užfiksuojama vaizdo kamerų. $$A. Astrauskaitė: „Norėjau išreikšti meniškai performansą. (...) Tai pasiskaičiusi 15min, man labai patiko A.Labašausko žodžiai – nieko neturiu prieš šitą menininką, jis pasakė, kad kiekvienas laisvas žmogus gali save išreikšti ir prie šitos sienos gali save išreikšti (...) laisvame mieste laisvas žmogus reiškia savo laisvą nuomonę, kad tie bunkeriai buvo sutaškyti krauju, kad tai ne laisvės simbolis“.$$Mokytoja nurodo į A. Labašausko žodžius: „Kiekvienas yra laisvas elgtis taip, kaip nori su savo laisve. Jeigu nori elgtis destruktyviai, turi tą teisę, tikriausiai. Ar mes tam pritariam? Aš nežinau. Manau, nederėtų taip elgtis. Nereikėtų niokoti. Reikėtų kurti, o ne griauti“$$Savivaldybės administracija planuoja kreiptis į policiją dėl žalos atlyginimo - 135 eurų už dėmės nuvalymą.$$Mėnesio pradžioje mokytoja organizuoja protestą „Dėl Vyčio ir Lietuvos laisvės kovų atminties įamžinimo Vilniuje“, o po mažiau nei metų savo Facebook paskyroje pasidalina vaizdo įrašu, kaip nuo JAV ambasados Vilniuje nuima policijos nužudytam George Floyd atminimti skirtas žvakes bei plakatus.(15min: „Laisvės kalvą“ dažais apipylusi mokytoja: tai buvo performansas)$$",
+      "svgUrl":"https://res.cloudinary.com/maciunas123/image/upload/v1621687131/BUILDING_IMAGES/SVG/LUKISKIU_AIKSTE/INCIDENTAS_NUMERIS_VIENAS_RAUDONI_DA_AI_phpada.svg",
+      "imageUrl":"https://res.cloudinary.com/maciunas123/image/upload/v1613937892/LENIN_PARK/31-01_brjsu9.png",
+      "normalizedTitle":"INCIDENTAS_NUMERIS_VIENAS_RAUDONI_DA_AI",
+      "draggable":[]
+    },
+    {
+      "_id":"606514560bda1f3bc0b6a4fe",
+      "number":32,
+      "building":"PARK",
+      "date":"2020/06/20 ",
+      "title":"AIKŠTĖ - TAI PAPLŪDIMYS",
+      "caption":"$$Lukiškių aikštėje įrengiamas laikinas paplūdimys, siekiant kompensuoti pandemijos metu apribotas vasaros atostogų kelionių galimybes. Iniciatyvos autorius -  liberalų „Laisvės“ partijos valdybos narys bei Vilniaus miesto meras Remigijus Šimašius.$$R. Šimašius: „Tai, kad šitas paplūdimys yra įrengtas šioje vietoje, tai bent jau man ir daug kam yra asociacija, kad mes pagaliau galime džiaugtis savo iškovota laisve (...) Aš esu įsitikinęs, kad tie, kurie už laisvę kovojo arba net ir galvą padėjo, jie kovojo ne tam, kad mes liūdėtumėme ir verktumėme“$$Projekto sąmata siekia beveik 50 tūkstančių eurų. Anot mero, tokia pat suma prie idėjos prisidės ir privatūs partneriai. Vienas iš jų - telekomunikacijos kompanija „Telia“ - paplūdimyje įrengia ekraną, kuriame dienos metu rodomi Baltijos jūros vaizdai, o vakare - įmonei priklausančios VoD platformos filmai. (LRT:Šimašius: pliažas Lukiškių aikštėje įrengtas, kad galėtume džiaugtis iškovota laisve)$$",
+      "svgUrl":"https://res.cloudinary.com/maciunas123/image/upload/v1621687133/BUILDING_IMAGES/SVG/LUKISKIU_AIKSTE/AIK%C5%A0T%C4%96_-_TAI_PAPL%C5%AADIMYS_gyc1na.svg",
+      "imageUrl":"https://res.cloudinary.com/maciunas123/image/upload/v1613937893/LENIN_PARK/32-01_zaeyd6.png",
+      "normalizedTitle":"AIK_T_TAI_PAPL_DIMYS",
+      "draggable":[
+        "https://res.cloudinary.com/maciunas123/image/upload/v1621711703/BUILDING_IMAGES/PK_DRAGGABLES/AIK%C5%A0T%C4%96%20-%20TAI%20PAPL%C5%AADIMYS/papludimys_4_rnxfyv_mtnsu8.svg",
+        "https://res.cloudinary.com/maciunas123/image/upload/v1621711702/BUILDING_IMAGES/PK_DRAGGABLES/AIK%C5%A0T%C4%96%20-%20TAI%20PAPL%C5%AADIMYS/papludimys_3_f7cl2x_sbrdif.svg",
+        "https://res.cloudinary.com/maciunas123/image/upload/v1621711702/BUILDING_IMAGES/PK_DRAGGABLES/AIK%C5%A0T%C4%96%20-%20TAI%20PAPL%C5%AADIMYS/papludimys_1_rmuagt_vkhesr.svg",
+        "https://res.cloudinary.com/maciunas123/image/upload/v1621711702/BUILDING_IMAGES/PK_DRAGGABLES/AIK%C5%A0T%C4%96%20-%20TAI%20PAPL%C5%AADIMYS/papludimys_2_a0jeub_za93ld.svg"
+      ]
+    },
+    {
+      "_id":"606514560bda1f3bc0b6a4ff",
+      "number":33,
+      "building":"PARK",
+      "date":"2020/07/03 ",
+      "title":"INCIDENTAS NUMERIS DU: FEKALIJOS",
+      "caption":"$$Su šake ir dujokauke po Lukiškių aikstės paplūdimį vaikštinėjęs 70 metų šiaulietis Jonas Mileris jame primėto fekalijų ir yra suimamas policijos. $$Mileris 2009 metais buvo kaltinamas į Šiaulių dienraščio redakciją atsiuntęs 5 vokus su gyvsidabriu ir druska, bei užrašu „meksika. Nusikaltimo slėpimas“. $$",
+      "svgUrl":"https://res.cloudinary.com/maciunas123/image/upload/v1621687130/BUILDING_IMAGES/SVG/LUKISKIU_AIKSTE/INCIDENTAS_NUMERIS_DU._FEKALIJOS_hgd51x.svg",
+      "imageUrl":"https://res.cloudinary.com/maciunas123/image/upload/v1613937893/LENIN_PARK/33-01_mc6lql.png",
+      "normalizedTitle":"INCIDENTAS_NUMERIS_DU_FEKALIJOS",
+      "draggable":[]
+    },
+    {
+      "_id":"606514560bda1f3bc0b6a500",
+      "number":34,
+      "building":"PARK",
+      "date":"2020/07/07 ",
+      "title":"PAPLŪDIMYS - TAI REKLAMA",
+      "caption":"$$Iki Seimo rinkimų likus trims mėnesiams, valdančiąją daugumą sudaranti Valstiečių bei žaliųjų partija (LVŽS) kreipiasi į Valstybinę rinkimų komisiją dėl galimo Lukiškių aikštės paplūdimio buvimo „Laisvės“ partijos reklama Seimo rinkimų kampanijos metu. $$Iš LVŽS pranešimo: „(...) rinkimų kampanijai finansuoti pritraukiami privatūs juridiniai asmenys, o skelbiama politinė reklama nėra pažymima teisės aktuose nustatyta tvarka. Aplinkybė, kad pliažo paslaugos yra nemokamos, skirtingai nei žiemą savivaldybės įrengiama čiuožykla, leidžia kalbėti ir apie bandymus papirkti rinkėjus“$$“Laisvės“ partijos pirmininkė Aušrinė Armontaitė: (...) skundžia tie, kurie prisidengdami karantinu prieš pat rinkimus išdalins milijardines vienkartines išmokas – ūkininkams, jų karvėms, senjorams“(LRT: „Valstiečiai“ dėl paplūdimio Lukiškėse skundžia Laisvės partiją VRK)$$",
+      "svgUrl":"https://res.cloudinary.com/maciunas123/image/upload/v1621687130/BUILDING_IMAGES/SVG/LUKISKIU_AIKSTE/PAPL_DIMYS_TAI_REKLAMA_ujmqdu.svg",
+      "imageUrl":"https://res.cloudinary.com/maciunas123/image/upload/v1613937893/LENIN_PARK/34-01_fpekgy.png",
+      "normalizedTitle":"PAPL_DIMYS_TAI_REKLAMA",
+      "draggable":[
+        "https://res.cloudinary.com/maciunas123/image/upload/v1621711697/BUILDING_IMAGES/PK_DRAGGABLES/PAPL%C5%AADIMYS%20-%20TAI%20REKLAMA/ad_1_aexycm_fil9id.svg",
+        "https://res.cloudinary.com/maciunas123/image/upload/v1621711698/BUILDING_IMAGES/PK_DRAGGABLES/PAPL%C5%AADIMYS%20-%20TAI%20REKLAMA/ad_2_u6jlpj_lnnvfe.svg",
+        "https://res.cloudinary.com/maciunas123/image/upload/v1621711699/BUILDING_IMAGES/PK_DRAGGABLES/PAPL%C5%AADIMYS%20-%20TAI%20REKLAMA/ad_4_w1q9q5_aq1seb.svg",
+        "https://res.cloudinary.com/maciunas123/image/upload/v1621711699/BUILDING_IMAGES/PK_DRAGGABLES/PAPL%C5%AADIMYS%20-%20TAI%20REKLAMA/ad_3_htki2s_a0qchv.svg"
+      ],
+      "local":"../images/svg/REKLAMA.svg"
+    },
+    {
+      "_id":"606514560bda1f3bc0b6a501",
+      "number":35,
+      "building":"PARK",
+      "date":"2020/09/18 ",
+      "title":"VYTIS ATSISKLEIDŽIA",
+      "caption":"$$Ant Lukiškių aikštės apsauginės tvoros pakabinamos oficialios informacinės lentelės imitacijos, skelbiančios, jog čia bus pastatyta vaivorykštės spalvų vėliavą nešančio homoseksualaus Vyčio skulptūra. Mažiau nei po paros, lentelės dingsta nežinomomis aplinkybėmis. $$Lentelių tekstas:Skulptūra Lukiškių aikštėje „Homoseksualus Vytis“Homoseksualus Vytis – tai susitaikymo simbolis. Šis monumentas sujungia dvi prieštaraujančias ideologijas – tautininkus ir liberalus. Projektą palaiko Progresyvių tautininkų gėjų sąjunga. Idėjos autorius: Adolfas MarksasUžsakovas: Vilniaus-Kauno dvimiesčio savivaldybėRangovas: „MG Latvija“Darbų pradžia: per KalėdasDarbų pabaiga: per Velykas$$Projektą mokesčių mokėtojų lėšomis iš dalies bendrai finansuoja Valstybinės mokesčių inspekcijos susisiekimo ministerija prie Naktinės kultūros reikalų komiteto sąjungos.$$",
+      "svgUrl":"https://res.cloudinary.com/maciunas123/image/upload/v1621687134/BUILDING_IMAGES/SVG/LUKISKIU_AIKSTE/VYTIS_ATSISKLEID%C5%BDIA_piq8np.svg",
+      "imageUrl":"https://res.cloudinary.com/maciunas123/image/upload/v1613937893/LENIN_PARK/35-01_knyo60.png",
+      "normalizedTitle":"VYTIS_ATSISKLEID_IA",
+      "draggable":[
+        "https://res.cloudinary.com/maciunas123/image/upload/v1621711701/BUILDING_IMAGES/PK_DRAGGABLES/VYTIS%20ATSISKLEID%C5%BDIA/heart_2_qed47q_veppmm.svg",
+        "https://res.cloudinary.com/maciunas123/image/upload/v1621711701/BUILDING_IMAGES/PK_DRAGGABLES/VYTIS%20ATSISKLEID%C5%BDIA/heart_1_nyjtqk_ybkgxa.svg"
+      ]
+    },
+    {
+      "_id":"606514560bda1f3bc0b6a502",
+      "number":36,
+      "building":"PARK",
+      "date":"2020/09/24 ",
+      "title":"AIKŠTĖ IEŠKO AUKLĖS",
+      "caption":"$$Valdančioji koalicija inicijuoja įstatymo pataisą, numatančią, kad, vietoj Vilniaus miesto savivaldybės, Lukiškių aikštės valdymas būtų perduotas Lietuvos gyventojų genocido ir rezistencijos tyrimų centrui.$$Po spalį įvykusių Seimo rinkimų idėjos atsisakoma. LŽVS partijos pirmininkas Ramūnas Karbauskis: „(...) rinkimų rezultatai parodė, kad liberalai bus, tikriausiai, valdančiojoje koalicijoje, dėl to visiškai akivaizdu, kad jie šį įstatymą, jeigu mes jį priiminėsime, jie po to jį panaikins. Tai kam bevargti, kam laiką gaišti?“(15min: R. Karbauskis: Lukiškių aikštės perdavimas Genocido centrui nebebus svarstomas)$$",
+      "svgUrl":"https://res.cloudinary.com/maciunas123/image/upload/v1621687131/BUILDING_IMAGES/SVG/LUKISKIU_AIKSTE/AIK%C5%A0T%C4%96_IE%C5%A0KO_AUKL%C4%96S_ggegbr.svg",
+      "imageUrl":"https://res.cloudinary.com/maciunas123/image/upload/v1613937888/LENIN_PARK/36-01_npjhpm.png",
+      "normalizedTitle":"AIK_T_IE_KO_AUKL_S",
+      "draggable":[
+        "https://res.cloudinary.com/maciunas123/image/upload/v1621711706/BUILDING_IMAGES/PK_DRAGGABLES/AIK%C5%A0T%C4%96%20IE%C5%A0KO%20AUKL%C4%96S/klaustukai_3_r7s3br_lmsab9.svg",
+        "https://res.cloudinary.com/maciunas123/image/upload/v1621711706/BUILDING_IMAGES/PK_DRAGGABLES/AIK%C5%A0T%C4%96%20IE%C5%A0KO%20AUKL%C4%96S/klaustukai_2_jgxikf_zf3c7i.svg",
+        "https://res.cloudinary.com/maciunas123/image/upload/v1621711705/BUILDING_IMAGES/PK_DRAGGABLES/AIK%C5%A0T%C4%96%20IE%C5%A0KO%20AUKL%C4%96S/klaustukai_1_ewlu1n_gyimpw.svg",
+        "https://res.cloudinary.com/maciunas123/image/upload/v1621711704/BUILDING_IMAGES/PK_DRAGGABLES/AIK%C5%A0T%C4%96%20IE%C5%A0KO%20AUKL%C4%96S/balti_klaustukai_5_ziw7qz_dghkwc.svg",
+        "https://res.cloudinary.com/maciunas123/image/upload/v1621711704/BUILDING_IMAGES/PK_DRAGGABLES/AIK%C5%A0T%C4%96%20IE%C5%A0KO%20AUKL%C4%96S/balti_klaustukai_4_lfjz97_debudk.svg"
+      ]
+    },
+    {
+      "_id":"606514560bda1f3bc0b6a503",
+      "number":37,
+      "building":"PARK",
+      "date":"2020/10/27 ",
+      "title":"KALVELĖ LAIMI. ANTRAS DUBLIS",
+      "caption":"$$Apeliacinis teismas atmeta Vyčio memorialo kūrėjų skundą ir nusprendžia, kad Kalvelė pagrįstai laimėjo konkursą. $$Sprendimas prieštarauja birželį Seimo priimtam įstatymui, jog Vytis turi būti pagrindiniu Lukiškių aikštės akcentu. $$A.Labašausko komentaras Facebook:“VICTORY !!! Lietuvos Respublikos Vardu Apeliacinis Teismas atmetė ieškovų prašymą ir paliko pirmos instancijos Teismo sprendimą. Kūrybines dirbtuves laimėjo geriausias projektas, konkursas buvo skaidrus, projektas įgyvendinamas. KPD teikė prieštaringas, nuomones ir vertinimus, ko pasekoje buvo sukiršinti piliečiai. Ar atsakingi valstybės tarnautojai sulauks atsakomybės už savo destruktyvius veiksmus? Belieka laukti ir tikėtis. Sveikinu mus visus su pergale, trys metai kelionės prikabintam prie valstiečių autobuso galinio bumperio nebuvo lengvi. O kas toliau, manęs neklauskite- nežinau !“$$2021 01 Vyčio memorialo autoriai pateikia skundą dėl memorialo konkurso Aukščiausiajam Teismui. Kūrėjų komandos vadovas K. Akelaitis: „Pastarieji keleri metai parodė, kad konkursą laimėjusi idėja nėra reali ir neturi įgyvendinimo perspektyvos, o Lukiškių aikštė naudojama ne pagal paskirtį“(15min: Vyčio autoriai Lukiškių memorialo konkursą apskundė Aukščiausiajam Teismui)$$",
+      "svgUrl":"https://res.cloudinary.com/maciunas123/image/upload/v1621687131/BUILDING_IMAGES/SVG/LUKISKIU_AIKSTE/KALVEL%C4%96_LAIMI._ANTRAS_DUBLIS_wggk25.svg",
+      "imageUrl":"https://res.cloudinary.com/maciunas123/image/upload/v1613937890/LENIN_PARK/7_1999-2000-01_ny9m0q.png",
+      "normalizedTitle":"KALVEL_LAIMI_ANTRAS_DUBLIS",
+      "draggable":[]
     }
-]
+  ]
